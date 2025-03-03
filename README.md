@@ -1,0 +1,19 @@
+# Mid - Customer Rewards Calculator
+
+## Description
+Mid is a web application that calculates customer rewards based on their clothing and accessories purchases. The application validates customer information and provides immediate feedback on form submissions with a detailed receipt.
+
+## Features
+- **Customer information validation**:
+  - Name, number, and email validation
+- **Purchase cost calculation** for clothing and accessories
+- **Automatic rewards calculation** based on purchase tiers:
+  - 10% rewards for purchases under $2,500
+  - 15% rewards for purchases between $2,500 and $4,000
+  - 20% rewards for purchases over $4,000
+- **Rewards pending calculation**
+- **Responsive design** using Bootstrap
+- **Immediate form validation** with error messages
+
+## Installation
+No installation required! This is a web-based application that runs directly in your browser.
