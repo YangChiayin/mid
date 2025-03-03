@@ -1,4 +1,4 @@
-# Mid - Customer Rewards Calculator
+# Customer Rewards Calculator
 <img src="https://github.com/user-attachments/assets/5688c397-f21b-4c4a-aab9-3e7df313335c" width="800" />
 <img src="https://github.com/user-attachments/assets/0902f613-bc0b-4884-acc1-1288601f2dfd" width="800" />
 <img src="https://github.com/user-attachments/assets/2705ffbb-2127-4a73-839c-f3b9980b5bd3" width="800" />
