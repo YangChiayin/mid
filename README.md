@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/2705ffbb-2127-4a73-839c-f3b9980b5bd3" width="800" />
 
 ## Description
-Mid is a web application that calculates customer rewards based on their clothing and accessories purchases. The application validates customer information and provides immediate feedback on form submissions with a detailed receipt.
+This is a web application that calculates customer rewards based on their clothing and accessories purchases. The application validates customer information and provides immediate feedback on form submissions with a detailed receipt.
 
 ## Features
 - **Customer information validation**:
